@@ -1,0 +1,155 @@
+<html lang="fa">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موسسه حقوقی منصوریان</title>
+    <style>
+        body {
+            font-family: 'Tahoma', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e3f2fd; /* Light Blue */
+            color: #333;
+        }
+
+        header {
+            background-color: #2196F3; /* Primary Blue */
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #64B5F6; /* Light Blue */
+            padding: 0.5em;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0.5em 1em;
+            margin: 0 1em;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        nav a:hover {
+            background-color: #42A5F5; /* Darker Blue */
+        }
+
+        section {
+            padding: 2em;
+            text-align: right;
+            background-color: #fff; /* White */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 20px; /* Added some margin for better spacing */
+        }
+
+        section h2 {
+            color: #2196F3; /* Primary Blue */
+        }
+
+        section p {
+            line-height: 1.6;
+        }
+
+        div {
+            margin-bottom: 2em;
+        }
+
+        div img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 1em;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin-bottom: 0.5em;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em;
+            background-color: #2196F3; /* Primary Blue */
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>موسسه حقوقی منصوریان</h1>
+    </header>
+
+    <nav>
+        <a href="#">خانه</a>
+        <a href="über-uns.html">درباره ما</a>
+
+    </nav>
+
+    <section>
+        <h2>عنوان: "مرکز حقوقی منصوریان مشاوره حقوقی با تخصص در ملک و قراردادها"</h2>
+        <p>سلام و خوش آمدید به شما در وب‌سایت خانواده حقوقی منصوریان، جایی که همه اعضا متخصص حقوقی هستند و با افتخار به ارائه خدمات حقوقی با تخصص در زمینه‌های ملک و قراردادها می‌پردازند.</p>
+
+        <div>
+            <img src="vater.jpg" alt="vater.jpg">
+            <p>تلفن: 09121732407 - غلامرضا منصوریان</p>
+        </div>
+
+        <p>غلامرضا منصوریان
+            آقای غلامرضا منصوریان یک وکیل حقوقی با تخصص در زمینه‌های ملک و حقوق کار است. ایشان تحصیلات حقوقی خود را در دانشگاه تهران گرفته و همانجا با همسر خود، سیمین دخت زرنگار بختیاری، آشنا شده‌اند.</p>
+
+        <div>
+            <img src="mutter.jpg" alt="mutter.jpg">
+            <p>تلفن: 09121732314 - سیمین دخت زرنگار بختیاری</p>
+        </div>
+
+        <p>سیمین دخت زرنگار بختیاری
+            سیمین دخت زرنگار بختیاری نیز وکیل حقوقی است و در زمینه حقوق خانواده تخصص دارد. ایشان با همسر خود در دانشگاه تهران آشنا شده و اکنون به عنوان یک متخصص در امور حقوقی خانوادگی فعالیت می‌کنند.</p>
+
+        <div>
+            <img src="sohn1.jpg" alt="sohn1.jpg">
+            <p>تلفن: 09121733525 - پوریا منصوریان</p>
+        </div>
+
+        <p>پوریا منصوریان
+            پوریا منصوریان، پسر اول خانواده، نیز وکیل حقوقی با تخصص در زمینه‌های ملک و قراردادها است. او با دقت و شغف به مسائل حقوقی ملکی و تعاقدی می‌پردازد و مشتاق به ارائه خدمات حقوقی با کیفیت است.</p>
+
+        <div>
+            <img src="sohn2.jpg" alt="sohn2.jpg">
+            <p>تلفن: 09121732027 - پارسا منصوریان</p>
+        </div>
+
+        <p>پارسا منصوریان
+            پارسامنصوریان، پسر دوم خانواده، نیز وکیل حقوقی با تخصص در زمینه‌های قراردادها و ملک است. او از تجربه و تخصص خود در حوزه حقوق به عنوان یک متخصص در امور مربوط به قراردادها و املاک معرفی می‌شود.</p>
+
+        <!-- Beliebiger persischer Text über rechtliche Angelegenheiten im Iran als Liste für Menschen -->
+        <h3>موضوعات حقوقی اصلی موسسه:</h3>
+        <ul>
+            <li>حقوق خانواده و امور زناشویی</li>
+            <li>حقوق ملکی و املاک</li>
+            <li>حقوق کار و استخدام</li>
+            <li>قراردادها و تعهدات قانونی</li>
+            <li>کیفری و جزایی</li>
+  	    
+        </ul>
+    </section>
+
+    <footer>
+        &copy; 2023 موسسه حقوقی منصوریان. تمامی حقوق محفوظ است.
+    </footer>
+
+</body>
+
+</html>
