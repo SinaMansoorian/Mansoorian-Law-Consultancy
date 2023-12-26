@@ -16,7 +16,7 @@
         <h1>موسسه حقوقی منصوریان</h1>
     </header>
  <div>
-            <img src="1.jpg" alt="vater.jpg">
+            <img src="کانون.jpg" alt="vater.jpg">
             <p>تلفن: 09121732407 - غلامرضا منصوریان</p>
         </div>
     <nav>
