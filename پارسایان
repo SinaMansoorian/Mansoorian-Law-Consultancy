@@ -1,5 +1,5 @@
 <html lang="fa">
- 
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,12 +9,12 @@
             font-family: 'Tahoma', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f8f9fa; /* Light Gray */
+            background-color: #e3f2fd; /* Light Blue */
             color: #333;
         }
 
         header {
-            background-color: #343a40; /* Dark Gray */
+            background-color: #2196F3; /* Primary Blue */
             color: #fff;
             text-align: center;
             padding: 1em;
@@ -23,7 +23,7 @@
         nav {
             display: flex;
             justify-content: center;
-            background-color: #495057; /* Gray */
+            background-color: #64B5F6; /* Light Blue */
             padding: 0.5em;
         }
 
@@ -37,7 +37,7 @@
         }
 
         nav a:hover {
-            background-color: #6c757d; /* Light Gray */
+            background-color: #42A5F5; /* Darker Blue */
         }
 
         section {
@@ -50,7 +50,7 @@
         }
 
         section h2 {
-            color: #007bff; /* Blue */
+            color: #2196F3; /* Primary Blue */
         }
 
         section p {
@@ -80,7 +80,7 @@
         footer {
             text-align: center;
             padding: 1em;
-            background-color: #343a40; /* Dark Gray */
+            background-color: #2196F3; /* Primary Blue */
             color: #fff;
         }
     </style>
